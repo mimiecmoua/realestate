@@ -19,7 +19,7 @@ JavaScript a été utilisé pour ajouter des effets d'images, gérer les slides 
 
 Voici un aperçu de l'interface de notre site :
 
-![Capture d'écran du site](./img/capture-splendimmo.png)
+![Capture d'écran du site](./img/Capture-splendimmo.png)
 
 ## Installation
 
